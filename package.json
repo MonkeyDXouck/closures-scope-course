@@ -1,0 +1,20 @@
+{
+  "name": "closuresscopecourse",
+  "version": "1.0.0",
+  "description": "Closures and Scope course",
+  "main": "scope.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonkeyDXouck/closures-scope-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonkeyDXouck/closures-scope-course/issues"
+  },
+  "homepage": "https://github.com/MonkeyDXouck/closures-scope-course#readme"
+}
